@@ -9,10 +9,10 @@
     },
     "api": {
       "type": "openapi",
-      "url": "http://18.222.111.171:5003/openapi.yaml"
+      "url": "http://ec2-18-222-111-171.us-east-2.compute.amazonaws.com:5003/openapi.yaml"
     },
-    "logo_url": "http://18.222.111.171:5003/logo.png",
-    "contact_email": "legal@18.222.111.171:5003",
-    "legal_info_url": "http://18.222.111.171:5003/legal"
+    "logo_url": "http://ec2-18-222-111-171.us-east-2.compute.amazonaws.com:5003/logo.png",
+    "contact_email": "legal@http://ec2-18-222-111-171.us-east-2.compute.amazonaws.com",
+    "legal_info_url": "http://ec2-18-222-111-171.us-east-2.compute.amazonaws.com:5003/legal"
   }
   
