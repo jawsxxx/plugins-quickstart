@@ -12,7 +12,7 @@
       "url": "http://18.222.111.171:5003/openapi.yaml"
     },
     "logo_url": "http://18.222.111.171:5003/logo.png",
-    "contact_email": "legal@example.com",
-    "legal_info_url": "http://example.com/legal"
+    "contact_email": "legal@18.222.111.171:5003",
+    "legal_info_url": "http://18.222.111.171:5003/legal"
   }
   
